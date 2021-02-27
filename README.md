@@ -1,4 +1,6 @@
 
 {
-	"Authorization": "QmFzaWNSYWNoZWxIb246MTIzNDU"
+	"username": "RachelHon",
+	"password": "12345",
+	"Permission": "User"
 }
